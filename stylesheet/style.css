@@ -111,7 +111,7 @@
     width: 19%;
     padding: 5px; }
   .section-five .interface-center {
-    width: 23% !important;
+    width: 22% !important;
     padding-top: 15px !important; }
   .section-five .input-group {
     position: relative;
@@ -122,7 +122,7 @@
       z-index: 1 !important; }
     .section-five .input-group .input-group-btn {
       position: absolute;
-      right: 134px;
+      right: 147px;
       border-radius: 30px;
       top: 3px;
       z-index: 2; }
@@ -169,7 +169,7 @@
       z-index: 1 !important; }
     .section-eight .input-group .input-group-btn {
       position: absolute;
-      right: 96px;
+      right: 108px;
       border-radius: 30px;
       top: 3px;
       z-index: 2; }
@@ -228,7 +228,7 @@ h3 {
 
 h2 {
   font-family: 'Mallanna', sans-serif;
-  font-size: 50px;
+  font-size: 45px;
   color: #000; }
 
 p {
