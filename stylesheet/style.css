@@ -113,15 +113,76 @@
   .section-five .interface-center {
     width: 23% !important;
     padding-top: 15px !important; }
+  .section-five .input-group {
+    position: relative;
+    width: 100%; }
+    .section-five .input-group input {
+      height: 40px;
+      border-radius: 30px !important;
+      z-index: 1 !important; }
+    .section-five .input-group .input-group-btn {
+      position: absolute;
+      right: 134px;
+      border-radius: 30px;
+      top: 3px;
+      z-index: 2; }
+      .section-five .input-group .input-group-btn button {
+        border-radius: 30px;
+        padding: 6px 20px; }
+  .section-five .download {
+    padding: 35px 0 10px; }
 
 .section-six {
   padding: 6em 0; }
+  .section-six img {
+    border-radius: 50%; }
 
 .section-seven {
-  background-color: #F4F4F5;
+  padding: 6em 0;
+  background-color: #F4F4F5; }
+
+.section-eight {
   padding: 6em 0; }
-  .section-seven img {
-    border-radius: 50%; }
+  .section-eight p {
+    padding-top: 2em; }
+  .section-eight .input-group {
+    position: relative;
+    width: 100%; }
+    .section-eight .input-group input {
+      height: 40px;
+      border-radius: 30px !important;
+      z-index: 1 !important; }
+    .section-eight .input-group .input-group-btn {
+      position: absolute;
+      right: 96px;
+      border-radius: 30px;
+      top: 3px;
+      z-index: 2; }
+      .section-eight .input-group .input-group-btn button {
+        border-radius: 30px;
+        padding: 6px 20px; }
+
+footer h6 span {
+  vertical-align: middle;
+  padding-right: 5px; }
+footer p {
+  padding-top: 15px; }
+footer hr {
+  color: #dbdbdb;
+  width: 85%;
+  margin: 1em auto; }
+footer li {
+  list-style: none;
+  line-height: 2em; }
+footer strong {
+  color: #000; }
+footer .footer {
+  padding: 6em 0 5em; }
+  footer .footer p {
+    padding: 20px 0; }
+  footer .footer .social-network img {
+    height: 17px;
+    margin-right: 12px; }
 
 body {
   font-family: 'Source Sans Pro', sans-serif;
@@ -172,10 +233,19 @@ p {
 .pl-5 {
   padding-left: 5em; }
 
+.pt-3 {
+  padding-top: 3em; }
+
 .pt-5 {
   padding-top: 5em; }
 
 .black {
   color: #000; }
+
+.radius-30 {
+  border-radius: 30px; }
+
+.fs-12 {
+  font-size: 12px; }
 
 /*# sourceMappingURL=style.css.map */
