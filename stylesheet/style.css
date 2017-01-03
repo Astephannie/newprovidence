@@ -189,6 +189,8 @@ footer hr {
 footer li {
   list-style: none;
   line-height: 2em; }
+  footer li a {
+    color: gray; }
 footer strong {
   color: #000; }
 footer .footer {
