@@ -135,11 +135,26 @@
 .section-six {
   padding: 6em 0; }
   .section-six img {
-    border-radius: 50%; }
+    padding: 15px 2px; }
+  .section-six h4 {
+    font-weight: 400;
+    color: #000;
+    padding-bottom: 20px; }
 
 .section-seven {
   padding: 6em 0;
   background-color: #F4F4F5; }
+  .section-seven .fs-20 {
+    font-size: 20px;
+    padding: 1em 3em; }
+  .section-seven .active-plan {
+    background-color: #fff;
+    padding: 5em 0;
+    border-radius: 15px; }
+  .section-seven .desactive-plan {
+    background-color: #EBEAEC;
+    padding: 3em 0;
+    border-radius: 15px; }
 
 .section-eight {
   padding: 6em 0; }
